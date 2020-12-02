@@ -1,4 +1,4 @@
-module github.com/dgzlopes/k6-extension-datadog
+module github.com/dgzlopes/xk6-datadog
 
 go 1.15
 
